@@ -76,11 +76,6 @@
   }
 }
 
-fotopc {
-display: flex;
-justify-content: center;
-  aling-items: center;
-}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
